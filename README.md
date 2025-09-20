@@ -1,6 +1,7 @@
 # Kathir V B
 
-Hi! I'm Kathir V B, a passionate Machine Learning enthusiast. I'm always eager to explore, learn, and collaborate on innovative projects in the fields of Machine Learning and Data Science.
+Hi! I'm Kathir V B, a passionate Embedded Systems and Frontend Development enthusiast.
+I’m always eager to explore, learn, and collaborate on innovative projects in the fields of Embedded Systems, Frontend Development, and UI/UX Design.
 
 ## Interests
 
