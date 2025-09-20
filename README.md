@@ -5,15 +5,17 @@ I’m always eager to explore, learn, and collaborate on innovative projects in 
 
 ## Interests
 
-- Machine Learning
-- Deep Learning
-- Data Science
-- Natural Language Processing (NLP)
-- Computer Vision
+UI/UX Designing – Figma
+
+Front-End Development – HTML, CSS, JavaScript, React.js,Node.js
+
+Databases – MySQL
+
+Embedded Systems – Arduino, ESP32, Microcontrollers, IoT
 
 ## Current Focus
 
-I'm currently looking for exciting Machine Learning projects to collaborate on. If you have an interesting project or idea, feel free to reach out!
+I am currently focused on creating new front-end projects, designing intuitive UI/UX interfaces, working with microcontrollers and embedded systems, strengthening my MySQL skills, and exploring integrations of frontend, UI/UX, and embedded systems, while being open to internship opportunities based on these skills.
 
 ## Contact
 
